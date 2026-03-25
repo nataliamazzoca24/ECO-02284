@@ -1,0 +1,19 @@
+# documentação
+
+
+programa imprime5
+Descrição: este programa imprime os números inteiros de 1 a 5
+Autor: Natália
+Data: 24/03/2026
+Versão: 0.0.1
+
+
+## introdução
+
+
+
+## Funcionalidade
+
+
+
+## Conclusão
